@@ -2,7 +2,7 @@
 
 Olá, como vai?<br>
 Seguem algumas informações sobre minha experiência profissional :)<br>
-<td align='justify'>Atuo desde 2012 com tecnologia da informação e minhas atribuições sempre foram voltadas à gestão de infraestrutura trabalhando com Automação de TI, Backup, FileServer, Cloud, Monitoramento, Virtualização, DR, e dentre as principais tecnologias de mercado, tenho experiência com Active Directory, SAMBA, ZFS, LVM, VMWare Esxi, Proxmox, HP Data Protector, Zabbix, Sonicwall, ShellScript, pfSense, Vagrant, Ansible, Docker, ZFS, Oracle Cloud Infraestructure, Ansible Tower, Terraform, Azure, Python, JavaScript GitLab e VMware vRealize Orchestrator.</td>
+Atuo desde 2012 com tecnologia da informação e minhas atribuições sempre foram voltadas à gestão de infraestrutura trabalhando com Automação de TI, Backup, FileServer, Cloud, Monitoramento, Virtualização, DR, e dentre as principais tecnologias de mercado, tenho experiência com Active Directory, SAMBA, ZFS, LVM, VMWare Esxi, Proxmox, HP Data Protector, Zabbix, Sonicwall, ShellScript, pfSense, Vagrant, Ansible, Docker, ZFS, Oracle Cloud Infraestructure, Ansible Tower, Terraform, Azure, Python, JavaScript GitLab e VMware vRealize Orchestrator.
 
 ### Ferramentas e Tecnologias
 
