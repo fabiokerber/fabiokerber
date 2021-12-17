@@ -1,4 +1,4 @@
-Olá, Bem vindo ao meu Portifólio!<br>
+Olá, Bem vindo(a) ao meu Portifólio!<br>
 ---
 ![Snake animation](https://github.com/fabiokerber/fabiokerber/blob/output/github-contribution-grid-snake.svg)
 ---
