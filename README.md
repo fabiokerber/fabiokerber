@@ -1,9 +1,7 @@
-### Sobre
-
 Olá, Bem vindo ao meu Portifólio!<br>
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 ![Snake animation](https://github.com/fabiokerber/fabiokerber/blob/output/github-contribution-grid-snake.svg)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 Seguem algumas informações sobre minha experiência profissional :)<br>
 Atuo desde 2012 com tecnologia da informação e minhas atribuições sempre foram voltadas à gestão de infraestrutura trabalhando com Automação de TI, Backup, FileServer, Cloud, Monitoramento, Virtualização, DR, e dentre as principais tecnologias de mercado, tenho experiência com Active Directory, SAMBA, ZFS, LVM, VMWare Esxi, Proxmox, HP Data Protector, Zabbix, Sonicwall, ShellScript, pfSense, Vagrant, Ansible, Docker, ZFS, Oracle Cloud Infraestructure, Ansible Tower, Terraform, Azure, Python, JavaScript GitLab e VMware vRealize Orchestrator.
