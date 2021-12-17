@@ -6,7 +6,7 @@ Atuo desde 2012 com tecnologia da informação e minhas atribuições sempre for
 
 ### Ferramentas e Tecnologias
 
-<label> Windows Server <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows Server" width="40" height="40"/>
 
 
 ### Autor
