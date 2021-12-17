@@ -3,8 +3,30 @@ Olá, Bem vindo(a) ao meu Portifólio!<br>
 ![Snake animation](https://github.com/fabiokerber/fabiokerber/blob/output/github-contribution-grid-snake.svg)
 ---
 
-Seguem algumas informações sobre minha experiência profissional :)<br>
-Atuo desde 2012 com tecnologia da informação e minhas atribuições sempre foram voltadas à gestão de infraestrutura trabalhando com Automação de TI, Backup, FileServer, Cloud, Monitoramento, Virtualização, DR, e dentre as principais tecnologias de mercado, tenho experiência com Active Directory, SAMBA, ZFS, LVM, VMWare Esxi, Proxmox, HP Data Protector, Zabbix, Sonicwall, ShellScript, pfSense, Vagrant, Ansible, Docker, ZFS, Oracle Cloud Infraestructure, Ansible Tower, Terraform, Azure, Python, JavaScript GitLab e VMware vRealize Orchestrator.
+Sou formado em Redes de Computadores pela Faculdade Impacta de Tecnologia e em meu TCC, apresentamos uma solução baseada em Software Livre LTSP.
+
+Certificações:
+· LPIC-Essentials
+· LPIC-1
+· CompTIA Linux+ 
+· ITIL® Foundation Certificate in IT Service Management
+· Cloud Computing Foundation Certificate
+· AZ-900 - Azure Fundamentals
+
+Nacionalidades: 
+· PORTUGUESA
+· BRASILEIRA
+
+Língua materna: PORTUGUÊS
+Outras línguas:
+INGLÊS
+· LISTENING B1
+· READING B2
+· WRITING B1
+· SPOKEN PRODUCTION A2
+· SPOKEN INTERACTION A2
+
+Carteira de habilitação: B
 
 ### Ferramentas e Tecnologias
 
