@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/fabiokerber/fabiokerber/blob/output/github-contribution-grid-snake.svg)
+
 ### Sobre
 
 Olá, como vai?<br>
