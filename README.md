@@ -3,30 +3,15 @@ Olá, Bem vindo(a) ao meu Portifólio!<br>
 ![Snake animation](https://github.com/fabiokerber/fabiokerber/blob/output/github-contribution-grid-snake.svg)
 ---
 
-Sou formado em Redes de Computadores pela Faculdade Impacta de Tecnologia e em meu TCC, apresentamos uma solução baseada em Software Livre LTSP.
-
-Certificações:
-· LPIC-Essentials
-· LPIC-1
-· CompTIA Linux+ 
-· ITIL® Foundation Certificate in IT Service Management
-· Cloud Computing Foundation Certificate
-· AZ-900 - Azure Fundamentals
-
-Nacionalidades: 
-· PORTUGUESA
-· BRASILEIRA
-
-Língua materna: PORTUGUÊS
-Outras línguas:
-INGLÊS
-· LISTENING B1
-· READING B2
-· WRITING B1
-· SPOKEN PRODUCTION A2
-· SPOKEN INTERACTION A2
-
-Carteira de habilitação: B
+Sou formado em Redes de Computadores pela Faculdade Impacta de Tecnologia e possuo as seguintes Certificações:
+<br />
+· LPIC-Essentials<br>
+· LPIC-1<br>
+· CompTIA Linux+<br>
+· ITIL® Foundation Certificate in IT Service Management<br>
+· Cloud Computing Foundation Certificate<br>
+· AZ-900 - Azure Fundamentals<br>
+<br />
 
 ### Ferramentas e Tecnologias
 
