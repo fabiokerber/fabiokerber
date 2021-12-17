@@ -1,5 +1,12 @@
+### Sobre
+
+Olá, como vai?
+Seguem algumas informações sobre minha experiência profissional :)
+Atuo desde 2012 com tecnologia da informação e minhas atribuições sempre foram voltadas à gestão de infraestrutura trabalhando com Automação de TI, Backup, FileServer, Cloud, Monitoramento, Virtualização, DR, e dentre as principais tecnologias de mercado, tenho experiência com Active Directory, SAMBA, ZFS, LVM, VMWare Esxi, Proxmox, HP Data Protector, Zabbix, Sonicwall, ShellScript, pfSense, Vagrant, Ansible, Docker, ZFS, Oracle Cloud Infraestructure, Ansible Tower, Terraform, Azure, Python, JavaScript GitLab e VMware vRealize Orchestrator.
+
 ### Ferramentas e Tecnologias
 
+<label> Windows Server <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
 
 
 ### Autor
