@@ -28,7 +28,7 @@ Olá, Bem vindo(a) ao meu Portifólio!<br>
 
 <table>
   <tr>
-    <td>[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)</td>
+    <td>[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokerber&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)</td>
     <td>Cell B</td>
   </tr>
 </table>
