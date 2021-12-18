@@ -4,11 +4,20 @@ Olá, Bem vindo(a) ao meu Portifólio!<br>
 ---
 
 ### Cursos e Treinamentos
+
+- [x] [Ansible](https://github.com/fabiokerber/Ansible)
 - [x] [Docker](https://github.com/fabiokerber/Docker)
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
+- [x] [JavaScript](https://github.com/fabiokerber/JavaScript)
+- [x] [Packer](https://github.com/fabiokerber/Packer)
+- [x] [PowerShell](https://github.com/fabiokerber/PowerShell)
+- [x] [Python](https://github.com/fabiokerber/Python)
+- [x] [ShellScript](https://github.com/fabiokerber/ShellScript)
+- [x] [Terraform](https://github.com/fabiokerber/Terraform)
+- [x] [Vagrant](https://github.com/fabiokerber/Vagrant)
+
 
 ### Labs
+- [x] [Labs](https://github.com/fabiokerber/lab)
 
 
 ### Habilidades
