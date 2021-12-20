@@ -8,7 +8,7 @@ Olá. Seja bem vindo(a) ao meu Portifólio!<br>
 - [x] [Ansible](https://github.com/fabiokerber/Ansible)
 - [x] [Docker](https://github.com/fabiokerber/Docker)
 - [x] [JavaScript](https://github.com/fabiokerber/JavaScript)
-- [ ] [Kubernetes](https://github.com/fabiokerber/Kubernetes)
+- [x] [Kubernetes](https://github.com/fabiokerber/Kubernetes)
 - [x] [Packer](https://github.com/fabiokerber/Packer)
 - [x] [PowerShell](https://github.com/fabiokerber/PowerShell)
 - [x] [Python](https://github.com/fabiokerber/Python)
