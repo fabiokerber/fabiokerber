@@ -17,7 +17,7 @@ Olá. Seja bem vindo(a) ao meu Portifólio!<br>
 - [x] [Vagrant](https://github.com/fabiokerber/Vagrant)
 
 
-### Labs (🚀 Em construção...  🚧)
+### Labs
 - [x] [Labs](https://github.com/fabiokerber/lab)
 
 
