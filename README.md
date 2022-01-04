@@ -18,7 +18,7 @@ Olá. Seja bem vindo(a) ao meu Portifólio!<br>
 
 
 ### Labs
-- [x] [Labs](https://github.com/fabiokerber/lab)
+- [x] [Lab](https://github.com/fabiokerber/lab)
 
 
 ### Habilidades
