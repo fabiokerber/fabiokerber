@@ -6,6 +6,7 @@ Olá. Seja bem vindo(a) ao meu Portifólio!<br>
 ### Cursos e Treinamentos (🚀 Em construção...  🚧)
 
 - [x] [Ansible](https://github.com/fabiokerber/Ansible)
+- [x] [Continuous Integration & Continuous Delivery](https://github.com/fabiokerber/CI_CD)
 - [x] [Docker](https://github.com/fabiokerber/Docker)
 - [x] [JavaScript](https://github.com/fabiokerber/JavaScript)
 - [x] [Kubernetes](https://github.com/fabiokerber/Kubernetes)
