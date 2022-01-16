@@ -19,7 +19,7 @@ Olá. Seja bem vindo(a) ao meu Portifólio!<br>
 
 
 ### Projetos
-- [x] [Self Healing (AWX & Zabbix](https://github.com/fabiokerber/lab/tree/main/zbx_awx_sh)
+- [x] [Self Healing (AWX & Zabbix)](https://github.com/fabiokerber/lab/tree/main/zbx_awx_sh)
 
 
 ### Habilidades
