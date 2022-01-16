@@ -18,8 +18,8 @@ Olá. Seja bem vindo(a) ao meu Portifólio!<br>
 - [x] [Vagrant](https://github.com/fabiokerber/Vagrant)
 
 
-### Desafios
-- [x] [Lab](https://github.com/fabiokerber/lab)
+### Projetos
+- [x] [Self Healing (AWX & Zabbix](https://github.com/fabiokerber/lab/tree/main/zbx_awx_sh)
 
 
 ### Habilidades
