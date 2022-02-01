@@ -9,6 +9,7 @@ Olá. Seja bem vindo(a) ao meu Portifólio!<br>
 - [x] [Continuous Integration & Continuous Delivery](https://github.com/fabiokerber/CI_CD)
 - [x] [Docker](https://github.com/fabiokerber/Docker)
 - [x] [JavaScript](https://github.com/fabiokerber/JavaScript)
+- [x] [Jenkins](https://github.com/fabiokerber/jenkins)
 - [x] [Kubernetes](https://github.com/fabiokerber/Kubernetes)
 - [x] [Packer](https://github.com/fabiokerber/Packer)
 - [x] [PowerShell](https://github.com/fabiokerber/PowerShell)
