@@ -3,11 +3,12 @@ Olá. Seja bem vindo(a) ao meu Portifólio!<br>
 ![Snake animation](https://github.com/fabiokerber/fabiokerber/blob/output/github-contribution-grid-snake.svg)
 ---
 
-### Cursos e Treinamentos (🚀 Work in Progress...  🚧)
+### Treinamentos (🚀 Work in Progress...  🚧)
 
 - [x] [Ansible](https://github.com/fabiokerber/Ansible)
 - [x] [Continuous Integration & Continuous Delivery](https://github.com/fabiokerber/CI_CD)
 - [x] [Docker](https://github.com/fabiokerber/Docker)
+- [x] [GitLab-CI](https://github.com/fabiokerber/GitLab-CI)
 - [x] [JavaScript](https://github.com/fabiokerber/JavaScript)
 - [x] [Jenkins](https://github.com/fabiokerber/Jenkins)
 - [x] [Kubernetes](https://github.com/fabiokerber/Kubernetes)
