@@ -9,6 +9,7 @@ Welcome aboard to my portfolio!<br>
 - [x] [Continuous Integration & Continuous Delivery](https://github.com/fabiokerber/CI_CD)
 - [x] [Docker](https://github.com/fabiokerber/Docker)
 - [x] [GitLab-CI](https://github.com/fabiokerber/GitLab-CI)
+- [x] [Grafana](https://github.com/fabiokerber/Grafana)
 - [x] [JavaScript](https://github.com/fabiokerber/JavaScript)
 - [x] [Jenkins](https://github.com/fabiokerber/Jenkins)
 - [x] [Kubernetes](https://github.com/fabiokerber/Kubernetes)
