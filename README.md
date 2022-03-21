@@ -22,7 +22,7 @@ Welcome aboard to my portfolio!<br>
 
 
 ### IT Solutions
-- [x] [Self Healing (AWX & Zabbix)](https://github.com/fabiokerber/lab/tree/main/zbx_awx_sh)
+- [x] [Self Healing (AWX & Zabbix)](https://github.com/fabiokerber/Vagrant/tree/main/zbx_awx_sh)
 
 
 ### Skills
