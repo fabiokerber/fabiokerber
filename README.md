@@ -16,6 +16,7 @@ Welcome aboard to my portfolio!<br>
 - [x] [Packer](https://github.com/fabiokerber/Packer)
 - [x] [PowerShell](https://github.com/fabiokerber/PowerShell)
 - [x] [Python](https://github.com/fabiokerber/Python)
+- [x] [Rancher](https://github.com/fabiokerber/Rancher)
 - [x] [ShellScript](https://github.com/fabiokerber/ShellScript)
 - [x] [Terraform](https://github.com/fabiokerber/Terraform)
 - [x] [Vagrant](https://github.com/fabiokerber/Vagrant)
