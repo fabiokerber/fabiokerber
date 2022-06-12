@@ -16,6 +16,7 @@ Welcome aboard to my portfolio!<br>
 - [x] [Kubernetes](https://github.com/fabiokerber/Kubernetes)
 - [x] [Packer](https://github.com/fabiokerber/Packer)
 - [x] [PowerShell](https://github.com/fabiokerber/PowerShell)
+- [x] [Puppet](https://github.com/fabiokerber/Puppet)
 - [x] [Python](https://github.com/fabiokerber/Python)
 - [x] [Rancher](https://github.com/fabiokerber/Rancher)
 - [x] [ShellScript](https://github.com/fabiokerber/ShellScript)
