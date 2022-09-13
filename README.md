@@ -19,6 +19,7 @@ Welcome aboard to my portfolio!<br>
 - [x] [Puppet](https://github.com/fabiokerber/Puppet)
 - [x] [Python](https://github.com/fabiokerber/Python)
 - [x] [Rancher](https://github.com/fabiokerber/Rancher)
+- [x] [Rundeck](https://github.com/fabiokerber/Rundeck)
 - [x] [ShellScript](https://github.com/fabiokerber/ShellScript)
 - [x] [Terraform](https://github.com/fabiokerber/Terraform)
 - [x] [Vagrant](https://github.com/fabiokerber/Vagrant)
