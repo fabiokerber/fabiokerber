@@ -7,6 +7,7 @@
 ### Hands on (🚀 WIP 🚧)
 
 - [x] [Ansible](https://github.com/fabiokerber/Ansible)
+- [x] [AWX](https://github.com/fabiokerber/AWX)
 - [x] [Continuous Integration & Continuous Delivery](https://github.com/fabiokerber/CI_CD)
 - [x] [Dnsmasq](https://github.com/fabiokerber/Dnsmasq)
 - [x] [Docker](https://github.com/fabiokerber/Docker)
