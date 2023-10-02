@@ -1,9 +1,5 @@
 ### Welcome aboard to my portfolio!<br>
 
----
-![Snake animation](https://github.com/fabiokerber/fabiokerber/blob/output/github-contribution-grid-snake.svg)
----
-
 ### Hands on (🚀 WIP 🚧)
 
 - [x] [Ansible](https://github.com/fabiokerber/Ansible)
