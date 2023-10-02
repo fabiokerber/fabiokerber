@@ -1,5 +1,3 @@
-### Welcome aboard to my portfolio!<br>
-
 ### Hands on (🚀 WIP 🚧)
 
 - [x] [Ansible](https://github.com/fabiokerber/Ansible)
