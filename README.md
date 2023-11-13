@@ -11,6 +11,7 @@
 - [x] [JavaScript](https://github.com/fabiokerber/JavaScript)
 - [x] [Jenkins](https://github.com/fabiokerber/Jenkins)
 - [x] [Kubernetes](https://github.com/fabiokerber/Kubernetes)
+- [x] [LocalStack](https://github.com/fabiokerber/localstack)
 - [x] [Packer](https://github.com/fabiokerber/Packer)
 - [x] [PowerShell](https://github.com/fabiokerber/PowerShell)
 - [x] [Puppet](https://github.com/fabiokerber/Puppet)
