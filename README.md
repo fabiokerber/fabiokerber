@@ -1,13 +1,13 @@
 ### Hands on 🙌
 
--🔧[automation](https://github.com/fabiokerber/automation)
--☁️[cloud](https://github.com/fabiokerber/cloud)
--🐋[container](https://github.com/fabiokerber/container)
--💻[local](https://github.com/fabiokerber/local)
--📊[monitoring](https://github.com/fabiokerber/monitoring)
--🌎[network](https://github.com/fabiokerber/network)
--📦[pipeline](https://github.com/fabiokerber/pipeline)
--📜[scripting](https://github.com/fabiokerber/scripting)
+-🔧[automation](https://github.com/fabiokerber/automation)<br>
+-☁️[cloud](https://github.com/fabiokerber/cloud)<br>
+-🐋[container](https://github.com/fabiokerber/container)<br>
+-💻[local](https://github.com/fabiokerber/local)<br>
+-📊[monitoring](https://github.com/fabiokerber/monitoring)<br>
+-🌎[network](https://github.com/fabiokerber/network)<br>
+-📦[pipeline](https://github.com/fabiokerber/pipeline)<br>
+-📜[scripting](https://github.com/fabiokerber/scripting)<br>
 
 ---
 Made by [Fábio Kerber](https://www.linkedin.com/in/fabiokerber/)<br> 
