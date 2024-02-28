@@ -5,7 +5,7 @@
 🐋[container](https://github.com/fabiokerber/container)<br>
 💻[local](https://github.com/fabiokerber/local)<br>
 📊[monitoring](https://github.com/fabiokerber/monitoring)<br>
-🌎[network](https://github.com/fabiokerber/network)<br>
+🌎[networking](https://github.com/fabiokerber/network)<br>
 📦[pipeline](https://github.com/fabiokerber/pipeline)<br>
 📜[scripting](https://github.com/fabiokerber/scripting)<br>
 
